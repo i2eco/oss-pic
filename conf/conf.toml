@@ -1,0 +1,31 @@
+[image]
+     [image.egoshop]
+      path = "/home/www/server/go/src/github.com/goecology/oss-pic/test"
+     [image.test]
+        path = "/home/travis/gopath/src/github.com/goecology/oss-pic/test"
+
+[muses]
+    [muses.app]
+        name = "oss-pic"
+        env = "dev"
+        version = "1.0"
+        file = "local"
+    [muses.logger.system]
+          debug = true
+          level = "debug"
+          path = "./system.log"
+    [muses.server.stat]
+        addr = ":19003"
+        writeTimeout = "1s"
+        readTimeout = "1s"
+    [muses.server.gin]
+        graceful = true
+        mode = "debug"
+        addr = ":9003"
+        writeTimeout = "10s"
+        readTimeout = "10s"
+        maxHeaderBytes = 100000000000000
+        enabledRecovery = true
+        enabledLogger = true
+        enabledMetric = true
+
