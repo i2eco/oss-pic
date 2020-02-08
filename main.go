@@ -16,7 +16,7 @@ func main() {
 		stat.Register,
 		musgin.Register,
 	)
-	app.SetRouter(router.InitRouter)
+	app.SetGinRouter(router.InitRouter)
 	app.PreRun(mus.Init, conf.Init)
 	err := app.Run()
 	if err != nil {

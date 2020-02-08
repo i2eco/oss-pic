@@ -63,6 +63,8 @@ github.com/goecology/muses v0.0.0-20200129023140-8b56f2f5151e h1:DyKvjqXJxmc0kc1
 github.com/goecology/muses v0.0.0-20200129023140-8b56f2f5151e/go.mod h1:FWrcQfZA9AKcInI8N3XLu1Act6o5C4ZVyu64zJB0EYo=
 github.com/goecology/muses v0.2.0 h1:QT5c+TszERBJahqtrOuLUbCHo59WDrmJjyh9x4Av/io=
 github.com/goecology/muses v0.2.0/go.mod h1:KJ8bicyW7OliSEObnRDyeH8t56eqbsXeWxE0uoaJoJ0=
+github.com/goecology/muses v0.2.2 h1:Dhc4E5hUKgKkT0w+VGCwbWVxBjcng5U4Vat5PMRgQM4=
+github.com/goecology/muses v0.2.2/go.mod h1:KJ8bicyW7OliSEObnRDyeH8t56eqbsXeWxE0uoaJoJ0=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.1/go.mod h1:hp+jE20tsWTFYpLwKvXlhS1hjn+gTNwPg2I6zVXpSg4=
 github.com/golang-sql/civil v0.0.0-20190719163853-cb61b32ac6fe/go.mod h1:8vg3r2VgvsThLBIFL93Qb5yWzgyZWhEmBwUJWevAkK0=
